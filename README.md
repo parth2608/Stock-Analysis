@@ -1,2 +1,3 @@
 # Stock-Analysis
-This repository contains modules for analyzing stock of different companies and commodities.
+This projects is made to analyze stocks of different companies and commodities.
+Using Keras, TensorFlow, matplotlib, Scikit-learn, statsmodel and scipy
